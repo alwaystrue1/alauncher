@@ -1,0 +1,3 @@
+[submodule "Interstellar"]
+	path = Interstellar
+	url = https://github.com/UseInterstellar/Interstellar
